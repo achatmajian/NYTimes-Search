@@ -1,0 +1,23 @@
+.title {
+    font-weight: 900;
+}
+
+.hero-body {
+    border-radius: 10px;
+    text-align: center;
+    background-color: navy;
+}
+
+.input-box {
+    margin-top: 20px;
+   
+    border: solid grey 1px;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.footer {
+    margin-top: 20px;
+    border-radius: 10px;
+}
